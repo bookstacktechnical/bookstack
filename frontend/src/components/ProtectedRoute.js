@@ -47,7 +47,7 @@ function ProtectedRoute({ children }) {
           <div className="header p-2 bg-primary flex justify-between rounded items-center">
             <h1 className="text-2xl text-white font-bold cursor-pointer"
              onClick={() => navigate("/")}
-            >BookHub</h1>
+            >BookStack</h1>
 
             <div className="flex items-center gap-1 bg-white p-1 rounded">
               <i className="ri-shield-user-line "></i>
